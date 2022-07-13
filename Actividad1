@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcam</title>
+    </head>
+    <body>
+        <div>
+        <h3>Este es mi primer comentario de dos líneas</h3>
+        <span>Aprendiendo a documentar mi código con OpenBootcamp</span>
+        </div>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=5ur774K_qRQ">YOKO ONO QUEEN OF HAMPARTE. THE ART OF NOT HAVING TALENT</a></li>
+            <li><a href="https://www.youtube.com/watch?v=G9rIdj1lyJ4">Un concepto que me ha cambiado la vida: la "PERFORMANCE"</a></li>
+            <li><a href="https://www.youtube.com/watch?v=RYihwKty83A&t=668s">¿Por qué la música de Harry Potter suena tan MÁGICA?</a></li>
+        </ul>
+    </body>
+</html>
